@@ -13,6 +13,8 @@ So we would have -
 * HTML5
 * CSS
 * General Programming (Books that cover more than one topic/language)
+* Design
+	- The Shape of Design, Frank Chimero (http://shop.frankchimero.com/collections/frontpage/products/the-shape-of-design)
 
 ### Sites
 * JavaScript
